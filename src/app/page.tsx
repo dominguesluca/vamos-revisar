@@ -67,7 +67,7 @@ export default function Home() {
           </div>
 
           <button className="start-button" onClick={handleStart}>
-            vamos revisar
+            Vamos revisar ?
           </button>
         </div>
       </main>
